@@ -6,6 +6,8 @@
 
 Boredifier™ is a non-AI, deterministic linguistic transformation utility designed to algorithmically convert informal textual statements into verbose, impersonal, and stylistically monotonous prose. It is intended for individuals, organizations, and agencies requiring the obfuscation or sterilization of casual language into forms more suitable for bureaucratic documentation, soulless corporate reports, or joyless academic memos.
 
+![image](https://github.com/user-attachments/assets/6facfc15-4223-447b-b342-9a32f928705e)
+
 ### Functional Specifications
 
 * **Input Modality:** Casual, expressive English sentences.
