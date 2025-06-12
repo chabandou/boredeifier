@@ -1,6 +1,6 @@
 # Boredifier™
 
-## A Formalization Engine for Casual Human Expression
+## Professional Text Realignemet System
 
 ### Executive Summary
 
